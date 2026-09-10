@@ -1,0 +1,200 @@
+[
+  {
+  "id": "ep1_revival_announcement_green_room",
+  "episode": 1,
+  "event": "Kamala announces to the assembled company that the season will close with a revival of The Winter Boarders, with all four company members present.",
+  "known_by": ["Kamala", "Dev", "Wren", "Tomas", "Priya"]
+  },
+  {
+    "id": "ep1_lease_warning",
+    "episode": 1,
+    "event": "Tomas tells Kamala the lease expires in 11 months and will not renew automatically.",
+    "known_by": ["Tomas", "Kamala"]
+  },
+  {
+  "id": "ep1_lease_non_renewal_warning",
+  "episode": 1,
+  "event": "Tomas warns Kamala that the lease expires in eleven months and will not renew automatically, and Kamala tells no one about the conversation.",
+  "known_by": ["Tomas", "Kamala"]
+  },
+  {
+    "id": "ep1_priya_hire_secret",
+    "episode": 1,
+    "event": "Tomas arranged Priya's hire directly by phone; Priya is Tomas's sister's daughter.Kamala is not consulted about this hiring.",
+    "known_by": ["Tomas", "Priya"]
+  },
+  {
+    "id": "ep1_mumbai_call",
+    "episode": 1,
+    "event": "Dev takes a 4-minute call from a Mumbai casting agent and lies that it was his brother-in-law.",
+    "known_by": ["Dev"]
+  },
+  {
+    "id": "ep2_wren_scene_cut",
+    "episode": 2,
+    "event": "Kamala briskly cuts Wren's only scene in front of Dev and Priya",
+    "known_by": ["Kamala", "Dev", "Priya"]
+  },
+  {
+  "id": "ep2_priya_finds_crying_wren",
+  "episode": 2,
+  "event": "Wren cries on the hamper in the costume store after having her scene cut, and Priya sits with her on the floor without saying much, telling no one about it afterwards.",
+  "known_by": ["Wren", "Priya"]
+  },
+  {
+    "id": "ep2_serial_accepted",
+    "episode": 2,
+    "event": "Dev tells his wife he accepted a serial starting in Hyderabad in March. And he leaves company after closing night.",
+    "known_by": ["Dev"]
+  },
+  {
+    "id": "ep2_tomas_developer_lunch",
+    "episode": 2,
+    "event": "Tomas has lunch with a property developer on Bellary Road and leaves with architectural drawings.",
+    "known_by": ["Tomas"]
+  },
+
+  {
+    "id": "ep2_kamala_locks_grant",
+    "episode": 2,
+    "event": "Kamala finds the 2019 arts council grant file and locks it into her desk drawer alone.",
+    "known_by": ["Kamala"]
+  },
+  {
+    "id": "ep3_kamala_grant_forgery",
+    "episode": 3,
+    "event": "14 years ago, Kamala forged her missing co-founder's signature on the roof grant application.",
+    "known_by": ["Kamala", "Priya"]
+  },
+  {
+    "id": "ep3_priya_finds_carbon_copy",
+    "episode": 3,
+    "event": "Priya finds the carbon copy of the grant application in a box of programmes, realizes Kamala forged the signature, puts it back, and tells no one.",
+    "known_by": ["Priya"]
+  },
+  {
+    "id": "ep3_dev_misses_rehearsal",
+    "episode": 3,
+    "event": "Dev misses an entire day of rehearsal without offering an explanation, and Kamala chooses not to press him about it.",
+    "known_by": ["Kamala", "Dev", "Priya", "Wren"]
+  },
+  {
+    "id": "ep3_dev_screen_test_chennai",
+    "episode": 3,
+    "event": "Dev's unannounced absence was for a screen test in Chennai, which went very well.",
+    "known_by": ["Dev"]
+  },
+
+  {
+    "id": "ep3_priya_understudy_track",
+    "episode": 3,
+    "event": "Priya quietly rewrites the understudy plot so Wren covers Dev's role without clearing it with Kamala, and instructs Wren to start learning the part.",
+    "known_by": ["Priya", "Wren"]
+  }
+  ,
+  {
+    "id": "ep4_carpark_tomas_priya",
+    "episode": 4,
+    "event": "Tomas tells Priya between two cars that he is selling the building; Priya agrees to maintain secrecy.",
+    "known_by": ["Tomas", "Priya"]
+  },
+  {
+    "id": "ep4_carpark_kamala_view",
+    "episode": 4,
+    "event": "Kamala watches Tomas and Priya speaking in the car park from the fire escape; she hears nothing and concludes Tomas is going behind her back.",
+    "known_by": ["Kamala"]
+  },
+  {
+    "id": "ep4_board_review",
+    "episode": 4,
+    "event": "Tomas describes the tenancy as 'under review' at the board meeting and quickly moves on.",
+    "known_by": ["Tomas", "Kamala"]
+  },
+  {
+    "id": "ep4_dev_gala_pitch",
+    "episode": 4,
+    "event": "Kamala asks Dev to headline a closing-night fundraising gala; Dev agrees ambiguously.",
+    "known_by": ["Kamala", "Dev"]
+  },
+
+
+
+  {
+    "id": "ep5_tech_rehearsal_failure",
+    "episode": 5,
+    "event": "The lighting desk fails halfway through the second act, forcing Kamala, Dev, Priya, and Wren to stay past midnight. Tomas is not present and is never told.",
+    "known_by": ["Kamala", "Dev", "Priya", "Wren"]
+  },
+  {
+    "id": "ep5_priya_secret_desk_purchase",
+    "episode": 5,
+    "event": "Priya pays for the replacement lighting desk out of her own account and secretly files the paperwork as a hire charge.",
+    "known_by": ["Priya"]
+  },
+  {
+    "id": "ep5_wren_covers_dev",
+    "episode": 5,
+    "event": "Kamala puts Wren on in Dev's part during the dress rehearsal rather than lose the run, and Wren performs extraordinarily for two and a half hours.",
+    "known_by": ["Kamala", "Wren", "Priya"]
+  },
+  {
+    "id": "ep5_dev_misses_dress_rehearsal",
+    "episode": 5,
+    "event": "Dev arrives an hour late as the dress rehearsal is ending, apologises to Priya in the car park, and assumes the run was cancelled. Priya does not correct him.",
+    "known_by": ["Dev", "Priya"]
+  },
+  {
+    "id": "ep5_kamala_private_observation",
+    "episode": 5,
+    "event": "Kamala admits to herself that Wren is better in the part than Dev, but keeps this observation entirely private.",
+    "known_by": ["Kamala"]
+  },
+  {
+    "id": "ep5_tomas_signs_sale",
+    "episode": 5,
+    "event": "Tomas signs the conditional sale agreement for the building at the developer's office on Friday morning.",
+    "known_by": ["Tomas"]
+  },
+  {
+    "id": "ep6_priya_warns_wren",
+    "episode": 6,
+    "event": "Priya tells Wren in the costume store that she suspects Dev has been auditioning elsewhere and advises Wren to learn the whole part properly.",
+    "known_by": ["Priya", "Wren"]
+  },
+  {
+    "id": "ep6_sold_out_house",
+    "episode": 6,
+    "event": "Kamala looks at the seating plan for a long time after the house sells out for the first time in four years.",
+    "known_by": ["Kamala"]
+  },
+  {
+    "id": "ep6_dev_public_resignation",
+    "episode": 6,
+    "event": "Dev announces from the gala stage that it is his last performance with the company, and Kamala hears his resignation from the wings at the exact same moment.",
+    "known_by": ["Dev", "Kamala", "Priya", "Wren", "Tomas"]
+  },
+  {
+    "id": "ep6_tomas_leaves_early",
+    "episode": 6,
+    "event": "Tomas leaves the gala before the curtain call, which is witnessed by the entire company.",
+    "known_by": ["Tomas", "Kamala", "Dev", "Priya", "Wren"]
+  },
+  {
+    "id": "ep6_kamala_burns_grant_file",
+    "episode": 6,
+    "event": "Kamala burns the 2019 grant file in a metal bin in the alley behind the scene dock.",
+    "known_by": ["Kamala"]
+  },
+  {
+    "id": "ep6_priya_keeps_sale_secret",
+    "episode": 6,
+    "event": "Priya stands at the stage door for a while, decides not to tell Kamala about the building sale, and goes home.",
+    "known_by": ["Priya"]
+  },
+  {
+    "id": "ep6_wren_offered_lead",
+    "episode": 6,
+    "event": "Kamala offers Wren the lead roles for next season, and Wren accepts on the spot. Neither mentions the building because Wren has no knowledge of it.",
+    "known_by": ["Kamala", "Wren"]
+  }
+]
